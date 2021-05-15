@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192231359244",
+    "project_id": "zoom-idea",
+    "storage_bucket": "zoom-idea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192231359244:android:6aa3200c0008b3247fbf29",
+        "android_client_info": {
+          "package_name": "com.example.idea_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192231359244-p26gljl6moibqan3ngkstt3psgadq31h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEa-LUPOhVL9JyYnmHzYPp5Ptqpdi5sBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192231359244-p26gljl6moibqan3ngkstt3psgadq31h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
